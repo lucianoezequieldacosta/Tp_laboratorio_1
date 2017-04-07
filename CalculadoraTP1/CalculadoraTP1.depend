@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491598728 source:c:\users\asus\desktop\calculadoratp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491598798 c:\users\asus\desktop\calculadoratp1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
